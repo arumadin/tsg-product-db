@@ -198,24 +198,6 @@
         },
         {
             "id": 9,
-            "name": "Apple Cinnamon Muffin & Bread Mix",
-            "price": 7.2,
-            "discount": 0,
-            "description": "Apples, Almond Flour, Arrowroot, Organic Coconut Sugar, Organic Coconut Flour, Baking Soda, Organic Cinnamon, Sea Salt",
-            "category": "Baking",
-            "label": "Gluten Free",
-            "photos": [
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/51R+9uvOTjL._PIbundle-2,TopRight,0,0_SX656SY450SH20_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/61kIF43wruL._SX679_.jpg"  
-                }
-            ],
-            "options": []
-        },
-        {
-            "id": 10,
             "name": "Almond Flour Snack Bars (Chocolate Brownie)",
             "price": 6,
             "discount": 0,
@@ -236,7 +218,7 @@
             ]
         },
         {
-            "id": 11,
+            "id": 10,
             "name": "Sweet Thins",
             "price": 6,
             "discount": 0,
@@ -258,7 +240,7 @@
             ]
         },
         {
-            "id": 12,
+            "id": 11,
             "name": "Low-Fat Greek Yogurt",
             "price": 4,
             "discount": 10,
