@@ -77,12 +77,6 @@
                 },
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/819Ji0JyvPL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81hfD5GgRFL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81HD+dLuG4L._SX679_.jpg"  
                 }
             ],
             "options": [
@@ -107,12 +101,6 @@
                 },
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/71FU4ja9jfL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81gIQeyp1hL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71bwiXR3lcL._SX679_.jpg"  
                 }
             ],
             "options": [
@@ -122,33 +110,6 @@
         },
         {
             "id": 5,
-            "name": "Korean Honey Citron Tea",
-            "price": 18,
-            "discount": 15,
-            "description": "Sliced Yuzu with Real Honey for Hot tea and Cold beverages, Marmalade, Juice, and Salad Dressing – Product of Korea",
-            "category": "Tea",
-            "label": "",
-            "photos": [
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/61P4Uen48iL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71+HN2O8-tL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/61ISBFucF5L._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71bJfQIq+qL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71Bs+GkBSOL._SX679_.jpg"  
-                }
-            ],
-            "options": []
-        },
-        {
-            "id": 6,
             "name": "Organic Yuzu Green Tea",
             "price": 23,
             "discount": 10,
@@ -178,7 +139,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "Numi Organic Yuzu Bancha Tea",
             "price": 23,
             "discount": 10,
@@ -194,12 +155,6 @@
                 },
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/81CtJG-DdgL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71hKlMPn+CL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71eXV0HG11L._SL1500_.jpg"  
                 }
             ],
             "options": [
@@ -208,64 +163,7 @@
             ]
         },
         {
-            "id": 8,
-            "name": "Purely Elizabeth Organic Original Granola",
-            "price": 15,
-            "discount": 10,
-            "description": "Grains, oats and seeds along with chewy dried fruit, organic coconut oil and organic coconut sugar for a perfectly crunchy, salty-sweet taste.",
-            "category": "Granola",
-            "label": "",
-            "photos": [
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/51w29VZjVrL._SX300_SY300_QL70_FMwebp_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/9131YB5Sh0L._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/811KPGhv94L._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/91pa3OObIkL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/91F-39bMe0L._SX679_.jpg"  
-                }
-            ],
-            "options": [
-                "Pouch",
-                "Box"
-            ]
-        },
-        {
-            "id": 9,
-            "name": "Cascadian Farm Organic Granola, Oats and Honey Cereal",
-            "price": 8,
-            "discount": 10,
-            "description": "Organic granola: Made with organic whole grain oats and golden honey. Non-GMO: USDA certified organic non-GMO granola",
-            "category": "Granola",
-            "label": "Best Seller",
-            "photos": [
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81QAS3hJSwL._SX522_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81lK5kpiItL._SX522_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81uMltEhJqL._SX522_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81GmUuA-PEL._SX522_.jpg"  
-                }
-            ],
-            "options": [
-                "Pouch",
-                "Box"
-            ]
-        },
-        {
-            "id": 10,
+            "id": 7,
             "name": "Matcha Green Tea Granola",
             "price": 9.5,
             "discount": 10,
@@ -289,7 +187,7 @@
             ]
         },
         {
-            "id": 11,
+            "id": 8,
             "name": "Almond Flour Baking Mix Chocolate Muffin",
             "price": 6,
             "discount": 0,
@@ -305,12 +203,6 @@
                 },
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/41VpuuYCc3L.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/51IWxg0SN4L.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81DYO1oCjSL._SX679_.jpg"  
                 }
             ],
             "options": [
@@ -320,7 +212,7 @@
             ]
         },
         {
-            "id": 12,
+            "id": 9,
             "name": "Apple Cinnamon Muffin & Bread Mix",
             "price": 7.2,
             "discount": 0,
@@ -333,21 +225,12 @@
                 },
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/61kIF43wruL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81Ucv2aYIKL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/6140N79l4XL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/51R+9uvOTjL._PIbundle-2,TopRight,0,0_SX656SY450SH20_.jpg"  
                 }
             ],
             "options": []
         },
         {
-            "id": 13,
+            "id": 10,
             "name": "Almond Flour Snack Bars (Chocolate Brownie)",
             "price": 6,
             "discount": 0,
@@ -363,12 +246,6 @@
                 },
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/71hGWb2JkFL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81ZKi9GX+mL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71rXp0i+4zL._SX679_.jpg"  
                 }
             ],
             "options": [
@@ -377,7 +254,7 @@
             ]
         },
         {
-            "id": 14,
+            "id": 11,
             "name": "Sweet Thins",
             "price": 6,
             "discount": 0,
@@ -393,12 +270,6 @@
                 },
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/81ZMhTJ8z1L._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81TPrt29tcL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81LvgKpriDL._SX679_.jpg"  
                 }
             ],
             "options": [
@@ -408,7 +279,7 @@
             ]
         },
         {
-            "id": 15,
+            "id": 12,
             "name": "Low-Fat Greek Yogurt",
             "price": 4,
             "discount": 10,
@@ -436,37 +307,6 @@
                 "Strawberry Cheesecake",
                 "Almond Coco",
                 "Peanut Butter"
-            ]
-        },
-        {
-            "id": 16,
-            "name": "Probiotic, Whole Milk Yogurt",
-            "price": 4,
-            "discount": 10,
-            "description": "Yoghurt, Probiotic, Whole Milk Yogurt, Real Fruits, No Artificial Ingredients, Gluten Free",
-            "category": "Yogurt",
-            "label": "",
-            "photos": [
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/51nt3gsoDNL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/714AFM-v3IL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81tsyJjB7YL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71czOWrXMeL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/71D1QIU1buL._SX679_.jpg"  
-                }
-            ],
-            "options": [
-                "Peach",
-                "Honey",
-                "Strawberry"
             ]
         }
     ]
