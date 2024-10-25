@@ -1,0 +1,551 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Organic Fuji Apples",
+            "price": 2.99,
+            "discount": 0,
+            "description": "These crisp and juicy organic Fuji apples are a delicious and healthy snack. They are a good source of fiber and vitamin C.",
+            "category": "Fruit",
+            "label": "Best Seller",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg",
+                    "imgAlt": "Red Fuji apples"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51KW9cR2htL._AC_SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51v3yi1xsgL._AC_SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51v3yi1xsgL._AC_SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "No Box",
+                "With Box"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Freeze Dried Strawberry Fruit Snacks",
+            "price": 12,
+            "discount": 5,
+            "description": "HEALTHY, CRISPY SNACKS FOR EVERYONE: One of the most scrumptious freeze dried fruit you and your kids will love",
+            "category": "Snack",
+            "label": "Best Seller",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71R768SHdqL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81XW11-W-GL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/7168FJgHl0L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81MyAhUDeSL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81LQMbZ0nOL._SL1500_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Less Sugar",
+                "Zero Sugar"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Fresh Peaches Freeze Dried",
+            "price": 12.5,
+            "discount": 0,
+            "description": "Freeze Dried Fruit Snacks, Fresh Peaches Freeze Dried to a Healthy, Crispy Texture While Retaining Natural Flavor and Nutrition, No Preservatives",
+            "category": "Snack",
+            "label": "Best Seller",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/717U80w0UkL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81GOtSb-rQL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/819Ji0JyvPL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81hfD5GgRFL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81HD+dLuG4L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Less Sugar",
+                "Zero Sugar"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Fresh Berries with Yogurt Freeze Dried",
+            "price": 7.5,
+            "discount": 0,
+            "description": "Freeze Dried Food, Fresh Berries with Yogurt Freeze Dried to Yummy, Crispy Fruit Snacks, Healthy Snack for Kids and Adults with Natural Flavor and Nutrition",
+            "category": "Snack",
+            "label": "",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71QDeUYdmUL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81A92wd-zwL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71FU4ja9jfL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81gIQeyp1hL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71bwiXR3lcL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Less Sugar",
+                "Zero Sugar"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Korean Honey Citron Tea",
+            "price": 18,
+            "discount": 15,
+            "description": "Sliced Yuzu with Real Honey for Hot tea and Cold beverages, Marmalade, Juice, and Salad Dressing – Product of Korea",
+            "category": "Tea",
+            "label": "",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/61P4Uen48iL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71+HN2O8-tL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/61ISBFucF5L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71bJfQIq+qL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71Bs+GkBSOL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": []
+        },
+        {
+            "id": 6,
+            "name": "Organic Yuzu Green Tea",
+            "price": 23,
+            "discount": 10,
+            "description": "Organic Yuzu Green Tea Bags, Refreshing Citrus Fruit Tea, Sencha Greentea from Japan",
+            "category": "Tea",
+            "label": "Best Seller",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71U2DYW3snL._SX679_PIbundle-40,TopRight,0,0_AA679SH20_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71lXg4HG-YL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71VnRvuJV4L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71Aj1CH8E5L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71lXg4HG-YL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Loose leaf",
+                "Tea Bags"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Numi Organic Yuzu Bancha Tea",
+            "price": 23,
+            "discount": 10,
+            "description": "Numi Organic Yuzu Bancha Tea, 16 Tea Bags (Pack of 3) Roasted Japanese Green Tea with Citrus, Caffeinated",
+            "category": "Tea",
+            "label": "",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/819vBYD2lKL._SX679_PIbundle-3,TopRight,0,0_AA679SH20_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71LIZFCyPeL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81CtJG-DdgL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71hKlMPn+CL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71eXV0HG11L._SL1500_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Loose leaf",
+                "Tea Bags"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Purely Elizabeth Organic Original Granola",
+            "price": 15,
+            "discount": 10,
+            "description": "Grains, oats and seeds along with chewy dried fruit, organic coconut oil and organic coconut sugar for a perfectly crunchy, salty-sweet taste.",
+            "category": "Granola",
+            "label": "",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51w29VZjVrL._SX300_SY300_QL70_FMwebp_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/9131YB5Sh0L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/811KPGhv94L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/91pa3OObIkL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/91F-39bMe0L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Pouch",
+                "Box"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Cascadian Farm Organic Granola, Oats and Honey Cereal",
+            "price": 8,
+            "discount": 10,
+            "description": "Organic granola: Made with organic whole grain oats and golden honey. Non-GMO: USDA certified organic non-GMO granola",
+            "category": "Granola",
+            "label": "Best Seller",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81QAS3hJSwL._SX522_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81lK5kpiItL._SX522_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81uMltEhJqL._SX522_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81GmUuA-PEL._SX522_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Pouch",
+                "Box"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Matcha Green Tea Granola",
+            "price": 9.5,
+            "discount": 10,
+            "description": "MATCHA GREEN TEA FLAVOR: Discover edible zen with Amazin' Graze's Matcha Green Tea granola. It’s packed with naturally wholesome and delicious ingredients like rolled oats, cranberries, cashews, chia seeds, white melon seeds, chicory root and japanese matcha.",
+            "category": "Granola",
+            "label": "New Product",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51EyslkgsHL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/91ImsU5Px0L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81Z+D3JX+1L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Pouch",
+                "Box"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Almond Flour Baking Mix Chocolate Muffin",
+            "price": 6,
+            "discount": 0,
+            "description": "SIMPLE INGREDIENTS: Almond Flour, Organic Coconut Sugar, Cocoa, Arrowroot, Organic Coconut Flour, Baking Soda, Sea Salt",
+            "category": "Baking",
+            "label": "New Product",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71mzOtWVL3S._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71qw5H2XRtL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/41VpuuYCc3L.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51IWxg0SN4L.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81DYO1oCjSL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Mocha",
+                "Chocolate",
+                "Double Chocolate"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Apple Cinnamon Muffin & Bread Mix",
+            "price": 7.2,
+            "discount": 0,
+            "description": "Apples, Almond Flour, Arrowroot, Organic Coconut Sugar, Organic Coconut Flour, Baking Soda, Organic Cinnamon, Sea Salt",
+            "category": "Baking",
+            "label": "Gluten Free",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51R+9uvOTjL._PIbundle-2,TopRight,0,0_SX656SY450SH20_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/61kIF43wruL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81Ucv2aYIKL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/6140N79l4XL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51R+9uvOTjL._PIbundle-2,TopRight,0,0_SX656SY450SH20_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Almond Flour Snack Bars (Chocolate Brownie)",
+            "price": 6,
+            "discount": 0,
+            "description": "Almond Flour Snack Bars (Chocolate Brownie) with Organic Coconut Oil, Chia Seeds, Sunflower Seeds, and Flax Seeds",
+            "category": "Biscuit",
+            "label": "Best Seller",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71oya2++4rL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81tjcWJxpxL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71hGWb2JkFL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81ZKi9GX+mL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71rXp0i+4zL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Chocolate",
+                "Double Chocolate"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Sweet Thins",
+            "price": 6,
+            "discount": 0,
+            "description": "Sweet Thins, Paleo Friendly & Delicious Sweet Thin Cookies, Good for Snacks, Nutrient Dense",
+            "category": "Biscuit",
+            "label": "New Product",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/719aG8j7hAL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81V7lOVbUxL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81ZMhTJ8z1L._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81TPrt29tcL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81LvgKpriDL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Lemon Seed & Nut Flour",
+                "Honey Cinnamon",
+                "Chocolate Brownie"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Low-Fat Greek Yogurt",
+            "price": 4,
+            "discount": 10,
+            "description": "Creamy Greek Yogurt topped with crunchy mix-ins. Just open, pour in, and enjoy.",
+            "category": "Yogurt",
+            "label": "Best Seller",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81XVjW49-xL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81BgiXQ6mCL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71THxXWdiUL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51-Ksb-fYCL._SX300_SY300_QL70_FMwebp_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81ncpLloyzL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Strawberry Cheesecake",
+                "Almond Coco",
+                "Peanut Butter"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Probiotic, Whole Milk Yogurt",
+            "price": 4,
+            "discount": 10,
+            "description": "Yoghurt, Probiotic, Whole Milk Yogurt, Real Fruits, No Artificial Ingredients, Gluten Free",
+            "category": "Yogurt",
+            "label": "",
+            "photos": [
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/51nt3gsoDNL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/714AFM-v3IL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/81tsyJjB7YL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71czOWrXMeL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                },
+                {
+                    "imgUrl": "https://m.media-amazon.com/images/I/71D1QIU1buL._SX679_.jpg",
+                    "imgAlt": "image alt"
+                }
+            ],
+            "options": [
+                "Peach",
+                "Honey",
+                "Strawberry"
+            ]
+        }
+    ]
+}
