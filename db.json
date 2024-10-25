@@ -219,28 +219,6 @@
         },
         {
             "id": 10,
-            "name": "Sweet Thins",
-            "price": 6,
-            "discount": 0,
-            "description": "Sweet Thins, Paleo Friendly & Delicious Sweet Thin Cookies, Good for Snacks, Nutrient Dense",
-            "category": "Biscuit",
-            "label": "New Product",
-            "photos": [
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/719aG8j7hAL._SX679_.jpg"  
-                },
-                {
-                    "imgUrl": "https://m.media-amazon.com/images/I/81V7lOVbUxL._SX679_.jpg"  
-                }
-            ],
-            "options": [
-                "Lemon Seed & Nut Flour",
-                "Honey Cinnamon",
-                "Chocolate Brownie"
-            ]
-        },
-        {
-            "id": 11,
             "name": "Low-Fat Greek Yogurt",
             "price": 4,
             "discount": 10,
