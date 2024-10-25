@@ -2,13 +2,13 @@
     "products": [
         {
             "id": 1,
-            "name": "Organic Fuji Apples",
+            "title": "Organic Fuji Apples",
             "price": 2.99,
             "discount": 0,
             "description": "These crisp and juicy organic Fuji apples are a delicious and healthy snack. They are a good source of fiber and vitamin C.",
             "category": "Fruit",
             "label": "Best Seller",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg"
                 },
@@ -26,13 +26,13 @@
         },
         {
             "id": 2,
-            "name": "Freeze Dried Strawberry Fruit Snacks",
+            "title": "Freeze Dried Strawberry Fruit Snacks",
             "price": 12,
             "discount": 5,
             "description": "HEALTHY, CRISPY SNACKS FOR EVERYONE: One of the most scrumptious freeze dried fruit you and your kids will love",
             "category": "Snack",
             "label": "Best Seller",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/71R768SHdqL._SX679_.jpg"  
                 },
@@ -50,13 +50,13 @@
         },
         {
             "id": 3,
-            "name": "Fresh Peaches Freeze Dried",
+            "title": "Fresh Peaches Freeze Dried",
             "price": 12.5,
             "discount": 0,
             "description": "Freeze Dried Fruit Snacks, Fresh Peaches Freeze Dried to a Healthy, Crispy Texture While Retaining Natural Flavor and Nutrition, No Preservatives",
             "category": "Snack",
             "label": "Best Seller",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/717U80w0UkL._SX679_.jpg"  
                 },
@@ -74,13 +74,13 @@
         },
         {
             "id": 4,
-            "name": "Fresh Berries with Yogurt Freeze Dried",
+            "title": "Fresh Berries with Yogurt Freeze Dried",
             "price": 7.5,
             "discount": 0,
             "description": "Freeze Dried Food, Fresh Berries with Yogurt Freeze Dried to Yummy, Crispy Fruit Snacks, Healthy Snack for Kids and Adults with Natural Flavor and Nutrition",
             "category": "Snack",
             "label": "",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/71QDeUYdmUL._SX679_.jpg"  
                 },
@@ -98,13 +98,13 @@
         },
         {
             "id": 5,
-            "name": "Organic Yuzu Green Tea",
+            "title": "Organic Yuzu Green Tea",
             "price": 23,
             "discount": 10,
             "description": "Organic Yuzu Green Tea Bags, Refreshing Citrus Fruit Tea, Sencha Greentea from Japan",
             "category": "Tea",
             "label": "Best Seller",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/71U2DYW3snL._SX679_PIbundle-40,TopRight,0,0_AA679SH20_.jpg"  
                 },
@@ -128,13 +128,13 @@
         },
         {
             "id": 6,
-            "name": "Numi Organic Yuzu Bancha Tea",
+            "title": "Numi Organic Yuzu Bancha Tea",
             "price": 23,
             "discount": 10,
             "description": "Numi Organic Yuzu Bancha Tea, 16 Tea Bags (Pack of 3) Roasted Japanese Green Tea with Citrus, Caffeinated",
             "category": "Tea",
             "label": "",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/819vBYD2lKL._SX679_PIbundle-3,TopRight,0,0_AA679SH20_.jpg"  
                 },
@@ -152,13 +152,13 @@
         },
         {
             "id": 7,
-            "name": "Matcha Green Tea Granola",
+            "title": "Matcha Green Tea Granola",
             "price": 9.5,
             "discount": 10,
             "description": "MATCHA GREEN TEA FLAVOR: Discover edible zen with Amazin' Graze's Matcha Green Tea granola. It’s packed with naturally wholesome and delicious ingredients like rolled oats, cranberries, cashews, chia seeds, white melon seeds, chicory root and japanese matcha.",
             "category": "Granola",
             "label": "New Product",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/51EyslkgsHL._SX679_.jpg"  
                 },
@@ -176,13 +176,13 @@
         },
         {
             "id": 8,
-            "name": "Almond Flour Baking Mix Chocolate Muffin",
+            "title": "Almond Flour Baking Mix Chocolate Muffin",
             "price": 6,
             "discount": 0,
             "description": "SIMPLE INGREDIENTS: Almond Flour, Organic Coconut Sugar, Cocoa, Arrowroot, Organic Coconut Flour, Baking Soda, Sea Salt",
             "category": "Baking",
             "label": "New Product",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/71mzOtWVL3S._SX679_.jpg"  
                 },
@@ -198,13 +198,13 @@
         },
         {
             "id": 9,
-            "name": "Almond Flour Snack Bars (Chocolate Brownie)",
+            "title": "Almond Flour Snack Bars (Chocolate Brownie)",
             "price": 6,
             "discount": 0,
             "description": "Almond Flour Snack Bars (Chocolate Brownie) with Organic Coconut Oil, Chia Seeds, Sunflower Seeds, and Flax Seeds",
             "category": "Biscuit",
             "label": "Best Seller",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/71oya2++4rL._SX679_.jpg"  
                 },
@@ -219,13 +219,13 @@
         },
         {
             "id": 10,
-            "name": "Low-Fat Greek Yogurt",
+            "title": "Low-Fat Greek Yogurt",
             "price": 4,
             "discount": 10,
             "description": "Creamy Greek Yogurt topped with crunchy mix-ins. Just open, pour in, and enjoy.",
             "category": "Yogurt",
             "label": "Best Seller",
-            "photos": [
+            "images": [
                 {
                     "imgUrl": "https://m.media-amazon.com/images/I/81XVjW49-xL._SX679_.jpg"  
                 },
